@@ -1,6 +1,6 @@
 <template>
     <AppLayout>
-        <div class="py-12 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-slate-50 to-blue-50 min-h-screen">
+        <div class="flex-1 py-8 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-slate-50 to-blue-50">
         <div class="max-w-md mx-auto">
             <div class="text-center">
                 <h2 class="mt-6 text-3xl font-extrabold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">

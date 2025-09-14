@@ -5,10 +5,6 @@ export interface Auth {
     user: User;
 }
 
-export interface BreadcrumbItem {
-    title: string;
-    href: string;
-}
 
 export interface NavItem {
     title: string;
@@ -34,4 +30,3 @@ export interface User {
     updated_at: string;
 }
 
-export type BreadcrumbItemType = BreadcrumbItem;
